@@ -1,2 +1,0 @@
-# manggoyadong
-Hexo blog Devloper
